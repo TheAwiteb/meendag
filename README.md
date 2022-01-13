@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Meendag-sdk</h1>
-  <p>An unofficial SDK for Meendag.com help you to find name of the owner of the number</p>
+  <p>An unofficial SDK for Meendag help you to find name of the owner of the number</p>
   <a href="https://pypi.org/project/meendag/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/meendag?color=9cf">
   </a>
