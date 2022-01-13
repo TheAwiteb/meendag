@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+contact_links:
+- name: Question
+  url: 'https://github.com/TheAwiteb/meendag/discussions/new?category=question'
+  about: Ask a question about meendag-sdk in the discussions section
+
+- name: Feature Request
+  url: 'https://github.com/TheAwiteb/meendag/discussions/new?category=feature-request'
+  about: If you think that the meendag-sdk needs a new feature, you can tell us about it in the discussions section
